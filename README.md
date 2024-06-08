@@ -10,7 +10,7 @@ Modelo de website criado com HTML, CSS e Javascript com recurso de tradução pa
 O site está disponível para visualização em:
 
 ```bash
-https://maxxdiego.github.io/09_site_translation-en-pt/
+https://maxxdiego.github.io/09_site_translation_en_pt/
 
 ```
 
